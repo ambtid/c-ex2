@@ -1,0 +1,4 @@
+
+class SniperSoldier:public Soldier{
+
+};

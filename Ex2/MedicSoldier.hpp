@@ -1,0 +1,5 @@
+
+
+class MedicSoldier:public Soldier{
+
+};

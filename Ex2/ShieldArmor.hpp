@@ -1,0 +1,3 @@
+
+class ShieldArmor:public Shield{
+};
